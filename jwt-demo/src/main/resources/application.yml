@@ -1,0 +1,6 @@
+ac:
+  app:
+    jwtSecretKey: jwtAcSecret
+    jwtExpiration: 360
+server:
+  port: 8082
